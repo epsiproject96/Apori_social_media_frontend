@@ -1,0 +1,1 @@
+{"ast":null,"code":"import { Routes } from \"./src/navigation/Routes\";\nexport default Routes;","map":{"version":3,"sources":["D:/Code Source/Apori/App.tsx"],"names":["Routes"],"mappings":"AAAA,SAASA,MAAT;AAEA,eAAeA,MAAf","sourcesContent":["import { Routes } from './src/navigation/Routes';\n\nexport default Routes;\n\n"]},"metadata":{},"sourceType":"module"}
